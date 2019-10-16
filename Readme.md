@@ -3,7 +3,7 @@
 ### Manage set top box type
 ### Manage channels
 ### Manage channel packages
-#SQL SCHEMAS
+# SQL SCHEMAS
 ```sql
 CREATE TABLE STB (
 STB_ID NUMBER NOT NULL PRIMARY KEY,
