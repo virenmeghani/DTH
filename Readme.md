@@ -3,7 +3,8 @@
 ### Manage set top box type
 ### Manage channels
 ### Manage channel packages
-```ruby
+#SQL SCHEMAS
+```sql
 CREATE TABLE STB (
 STB_ID NUMBER NOT NULL PRIMARY KEY,
 STB_TYPE VARCHAR(10) NOT NULL,
