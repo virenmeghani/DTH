@@ -3,6 +3,7 @@
 ### Manage set top box type
 ### Manage channels
 ### Manage channel packages
+```ruby
 CREATE TABLE STB (
 STB_ID NUMBER NOT NULL PRIMARY KEY,
 STB_TYPE VARCHAR(10) NOT NULL,
@@ -113,3 +114,4 @@ Shift_Time_End date not null,
 Max_No_of_Customers number not null,
 Creation_Date date not null
 );
+```
